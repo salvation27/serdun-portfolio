@@ -5,7 +5,7 @@ const AboutSkill = ({item}) => {
     return (
       <div className="wrap_skill_card">
         <div className="skill_card_icon">
-          <i class={icon}></i>
+          <i className={icon}></i>
         </div>
         <div className="skill_card_descr">
           <h3>{title}</h3>

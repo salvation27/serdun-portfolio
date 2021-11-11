@@ -34,7 +34,7 @@ const About = () => {
               <div className="about_location_sosial"></div>
               <div className="about_location_adres">
                 <div className="location_adres_city">
-                  <i class="fas fa-map-marker-alt"></i>
+                  <i className="fas fa-map-marker-alt"></i>
                   <span>Ukrain,Kharkiv</span>
                 </div>
                 <div className="location_adres_city">
