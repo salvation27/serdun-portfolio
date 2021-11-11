@@ -94,7 +94,7 @@
         "text": "Верстка адаптивная",
         "background": "./img/link_system.jpg",
         "link_site": "https://salvation27.github.io/verstka-linkSystem/",
-        "best": false,
+        "best": true,
         "tag_filter": "lending"
       },
       {
@@ -102,7 +102,7 @@
         "text": "Подготовка верстки 4+ страниц к интеграция с CMS",
         "background": "./img/GL_Samolet.jpg",
         "link_site": "https://salvation27.github.io/verstka-linkSystem/",
-        "best": false,
+        "best": true,
         "tag_filter": "lending"
       },
       {
@@ -110,7 +110,7 @@
         "text": "Подготовка верстки 4+ страниц к интеграция с Wordpress и Woocommerce",
         "background": "./img/koloss-electric.jpg",
         "link_site": "https://salvation27.github.io/verstka-KolossElectrik/",
-        "best": false,
+        "best": true,
         "tag_filter": "shop"
       },
       {
@@ -126,7 +126,7 @@
         "text": "Верстка адаптивная с анимацией",
         "background": "./img/teleAKS.jpg",
         "link_site": "https://salvation27.github.io/verstka-teleAks/",
-        "best": false,
+        "best": true,
         "tag_filter": "lending"
       },
       {
@@ -174,7 +174,7 @@
         "text": "Верстка лендинга с переключением на два языка",
         "background": "./img/shato.jpg",
         "link_site": "https://salvation27.github.io/shato/",
-        "best": false,
+        "best": true,
         "tag_filter": "lending"
       },
       {
@@ -182,7 +182,7 @@
         "text": "Подготовка верстки 4+ страниц к интеграция с CMS",
         "background": "./img/pt-logistik.jpg",
         "link_site": "https://salvation27.github.io/PT-logistik/",
-        "best": false,
+        "best": true,
         "tag_filter": "lending"
       },
       {
