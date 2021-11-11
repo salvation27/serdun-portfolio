@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+.bloc_mod {
+    background:#fff;
+    border-radius: 10px;
+}
+.about_location_name {
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    font-size: 24px;
+}
+.about_location {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.about_location_name span {
+  color:  rgb(8, 158, 68);
+  margin-right: 10px;
+}
+.about_location_foto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background:#fff;
+    margin: 0 auto;
+    border: 1px solid #ccc
+}
+.about {
+    padding-top: 30px;
+}
+.about_location_prof {
+    background:#ccc;
+    text-align: center;
+    padding: 2px;
+    border-radius: 20px;
+    font-size: 14px;
+    margin:0px 10px;
+    margin-top: 15px;
+}
+.about_location_resume {
+    background:#ccc;
+    text-align: center;
+    padding: 2px;
+    border-radius: 20px;
+    font-size: 14px;
+    margin-top: 15px;
+}
+.about_desc_title {
+    padding: 20px;
+}
+.about_desc_skill {
+    background: rgb(156, 163, 175);
+    padding: 20px;
+}
+.about_desc_skill_item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.wrap_skill_card {
+ background:#fff;
+ width: 49%;
+ margin-top: 10px;
+}
+.wrap_skill_card {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+.skill_card_descr {
+    margin-left: 20px;
+}
+.skill_card_descr h3 {
+    font-weight: bold;
+    font-size: 17px;
+    color: rgb(8, 158, 68);
+}
+.skill_card_descr p {
+    font-size: 14px;
+}
+.skill_card_icon i {
+    font-size: 30px;
+}
+.about_location_foto {
+    margin-top: 15px;
+}
+.about_location_adres {
+    background: #ccc;
+    padding: 10px 0px;
+}
+.about_location_adres i {
+    margin-right: 10px;
+}
+.about_location_adres {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.location_adres_city {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about_location_prof_resume a {
+    text-decoration: none;
+}
+.about_location_prof_resume:hover {
+    text-decoration: none;
+}
+.about_location_adres {
+margin-top: 20px;
+}
+.about_location_foto img {
+    width: 100%;
+    height: auto;
+}
+.about_location_foto {
+    overflow: hidden;
+}

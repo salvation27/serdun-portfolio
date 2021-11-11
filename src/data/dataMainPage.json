@@ -1,0 +1,230 @@
+{
+  "offer": {
+    "title": "Welcome To My Personal Portfolio",
+    "text": "I am engaged in the development of digital solutions for business. I create websites and web applications. You can get acquainted with my work by going to the portfolio",
+    "text2": "Занимаюсь разработкай digital-решения для бизнеса. Создаю сайты и web-приложения. Ознакомится с моими работами можно перейдя в портфолио"
+  },
+  "skill": {
+    "title": "Technologies",
+    "text": "I've worked with a rangea technologies in the web development world. From Back-end To Design",
+    "itemSkills": [
+      {
+        "title": "HTML",
+        "text": "text1",
+        "prosent": "90%",
+        "background": "linear-gradient(270deg,#13ADC7 0%,#945DD6 100%)"
+      },
+      {
+        "title": "CSS",
+        "text": "text2",
+        "prosent": "80%",
+        "background": "linear-gradient(21deg, #dd03e4, #5611ec)"
+      },
+      {
+        "title": "JS",
+        "text": "text2",
+        "prosent": "50%",
+        "background": "linear-gradient(85deg, #fb63f9, #c2e534)"
+      },
+      {
+        "title": "REACT",
+        "text": "text2",
+        "prosent": "50%",
+        "background": "linear-gradient(90deg, #69b7eb, #b3dbd3, #f4d6db)"
+      },
+      {
+        "title": "PHOTOSHOP",
+        "text": "text2",
+        "prosent": "20%",
+        "background": "linear-gradient(85deg, #fb63f9, #c2e534)"
+      },
+      {
+        "title": "FIGMA",
+        "text": "text2",
+        "prosent": "20%",
+        "background": "linear-gradient(90deg, #69b7eb, #b3dbd3, #f4d6db)"
+      }
+    ]
+  },
+  "Projects": {
+    "title": "Projects",
+    "Progects": [
+      {
+        "title": "DenAuto",
+        "text": "Сервис услуг с последующей интеграцией на WP",
+        "background": "./img/denauto.jpg",
+        "link_site": "https://denauto-sochi.ru/",
+        "best": true,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "Лаборатория света",
+        "text": "Лендинг с последующей интеграцией на WP",
+        "background": "./img/lab-sveta.jpg",
+        "link_site": "https://salvation27.github.io/verstka-labSveta/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "Efycc",
+        "text": "Сделана верстка 30+ страниц, а также интеграция с Wordpress и Woocommerce",
+        "background": "./img/efycc.jpg",
+        "link_site": "https://efycc.ru/",
+        "best": true,
+        "tag_filter": "shop"
+      },
+      {
+        "title": "Lili Fashion",
+        "text": "Подготовка верстки 4+ страниц к интеграция с Wordpress и Woocommerce",
+        "background": "./img/lili-fashion.jpg",
+        "link_site": "https://salvation27.github.io/verstka-LiliFashion/",
+        "best": true,
+        "tag_filter": "shop"
+      },
+      {
+        "title": "KVart+",
+        "text": "Подготовка верстки 4+ страниц к интеграция с Wordpress и Woocommerce",
+        "background": "./img/KVart+.jpg",
+        "link_site": "https://salvation27.github.io/verstka-arendaKvartir/",
+        "best": true,
+        "tag_filter": "shop"
+      },
+      {
+        "title": "Link System",
+        "text": "Верстка адаптивная",
+        "background": "./img/link_system.jpg",
+        "link_site": "https://salvation27.github.io/verstka-linkSystem/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "ГК Самолет",
+        "text": "Подготовка верстки 4+ страниц к интеграция с CMS",
+        "background": "./img/GL_Samolet.jpg",
+        "link_site": "https://salvation27.github.io/verstka-linkSystem/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "KOLOSS electric",
+        "text": "Подготовка верстки 4+ страниц к интеграция с Wordpress и Woocommerce",
+        "background": "./img/koloss-electric.jpg",
+        "link_site": "https://salvation27.github.io/verstka-KolossElectrik/",
+        "best": false,
+        "tag_filter": "shop"
+      },
+      {
+        "title": "SILKWAY",
+        "text": "Верстка",
+        "background": "./img/silkway.jpg",
+        "link_site": "https://salvation27.github.io/verstka-SILKWAY/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "Tele AKS",
+        "text": "Верстка адаптивная с анимацией",
+        "background": "./img/teleAKS.jpg",
+        "link_site": "https://salvation27.github.io/verstka-teleAks/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "Quest",
+        "text": "Верстка заказа с фриланса",
+        "background": "./img/quest.jpg",
+        "link_site": "https://salvation27.github.io/zon-quest/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "Zamki-City",
+        "text": "Верстка",
+        "background": "./img/zamki-city.jpg",
+        "link_site": "https://salvation27.github.io/zamki-city/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "WONLEXRUS",
+        "text": "Верстка адаптивная,первая работа за деньги",
+        "background": "./img/smart-watch.jpg",
+        "link_site": "https://salvation27.github.io/wonlex-smart-watch/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "ThaiLine",
+        "text": "Верстка лендинга",
+        "background": "./img/thaiLine.jpg",
+        "link_site": "https://salvation27.github.io/thaiLine/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "WayUP",
+        "text": "Первая учебная верстка",
+        "background": "./img/wayUP.jpg",
+        "link_site": "https://salvation27.github.io/wayUP/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "Shato",
+        "text": "Верстка лендинга с переключением на два языка",
+        "background": "./img/shato.jpg",
+        "link_site": "https://salvation27.github.io/shato/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "РТ Логистик",
+        "text": "Подготовка верстки 4+ страниц к интеграция с CMS",
+        "background": "./img/pt-logistik.jpg",
+        "link_site": "https://salvation27.github.io/PT-logistik/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "Park",
+        "text": "Верстка лендинга",
+        "background": "./img/park.jpg",
+        "link_site": "https://salvation27.github.io/park/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "Скупка Радиодеталей",
+        "text": "Верстка с интеграцией на WP и установкой плагина для обновления курса цвет. мет. онлайн",
+        "background": "./img/skypka-radiodetaley.jpg",
+        "link_site": "https://xn----7sbbatahwdlau9ahsk3ag.xn--p1ai/",
+        "best": false,
+        "tag_filter": "catalog"
+      },
+      {
+        "title": "Ivan Romanowkov",
+        "text": "Верстка лендинга",
+        "background": "./img/ivan-romanov.jpg",
+        "link_site": "https://salvation27.github.io/ivan-romanovsky/",
+        "best": false,
+        "tag_filter": "lending"
+      },
+      {
+        "title": "МОСАБ",
+        "text": "Верстка с интеграцией на WP.Скорость сайта по гугл Спид была оптимизирована до 90",
+        "background": "./img/mosab.jpg",
+        "link_site": "https://salvation27.github.io/mosab/",
+        "best": false,
+        "tag_filter": "catalog"
+      },
+      {
+        "title": "LUXUR",
+        "text": "Верстка лендинга",
+        "background": "./img/luxur.jpg",
+        "link_site": "https://salvation27.github.io/luxur/",
+        "best": false,
+        "tag_filter": "catalog"
+      }
+    ]
+  }
+}

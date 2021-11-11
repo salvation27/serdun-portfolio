@@ -1,0 +1,91 @@
+.btn_style {
+position: relative;
+width: 250px;
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+background:#000;
+margin: 20px 0px;
+transition: .3s;
+overflow: hidden;
+text-decoration: none;
+margin: 0px auto;
+margin-top: 60px;
+/* -webkit-box-reflect: below 0 linear-gradient(transparent, #000); */
+}
+.btn_style:hover{
+/* background: rgba(255, 34, 187,1); */
+background: rgba(19, 173, 199,1);
+text-decoration: none;
+box-shadow:0 0 10px rgba(19, 173, 199,0.5),
+0 0 30px rgba(19, 173, 199,0.5),
+0 0 60px rgba(19, 173, 199,0.5),
+0 0 100px rgba(19, 173, 199,0.5)
+}
+.btn_style::before{
+content:'';
+position: absolute;
+width: 40px;
+height: 500%;
+background: rgba(19, 173, 199,1);
+transition: 1s;
+animation:animate 3s linear infinite;
+animation-delay:calc(.33s*1)
+}
+.btn_style:hover::before{
+width: 100%;
+}
+@keyframes animate {
+    0%{
+        transform:rotate(0deg)
+    }
+    100%{
+        transform:rotate(360deg)
+    }
+}
+    
+.btn_style::after{
+content:'';
+position: absolute;
+background: rgba(0, 0, 0,1);
+inset:2px;
+transition:.4s;
+}
+.btn_style:hover::after{
+background: rgba(19, 173, 199,1);
+}
+.btn_style span{
+position: relative;
+z-index: 1;
+color:#fff;
+opacity: .5;
+transition: .5s;
+font-size: 20px;
+}
+.btn_style:hover span{
+opacity: 1;
+}
+/* кнопка портфолио */
+
+
+.btn_potfolio {
+    margin:0px;
+    margin-top: 30px;
+    height: 50px;
+    width: 220px;
+}
+.btn_potfolio:hover{
+background: rgb(243, 163, 71);
+box-shadow:0 0 10px rgba(243, 163, 71,0.5),
+0 0 30px rgba(243, 163, 71,0.5),
+0 0 60px rgba(243, 163, 71,0.5),
+0 0 100px rgba(243, 163, 71,0.5)
+}
+
+.btn_potfolio::before{
+background: rgba(243, 163, 71,1);
+}
+.btn_potfolio:hover::after{
+background: rgba(243, 163, 71,1);
+}

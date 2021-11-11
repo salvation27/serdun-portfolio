@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "fas fa-desktop",
+    "title": "Frontend Development",
+    "text": "I can build a beautiful and scalable SPA using HTML,CSS and React.js"
+  },
+  {
+    "icon": "fas fa-clone",
+    "title": "Backend  Development",
+    "text": "handle database, server, api using Express & other popular frameworks"
+  },
+  {
+    "icon": "fas fa-chart-pie",
+    "title": "API Development",
+    "text": "handle database, server, api using Express & other popular frameworks"
+  },
+  {
+    "icon": "fab fa-buromobelexperte",
+    "title": "UI/UX designer",
+    "text": "stunning user interface designer using Figma and Photoshop"
+  }
+]

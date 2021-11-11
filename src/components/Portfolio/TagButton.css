@@ -1,0 +1,82 @@
+.tag {
+  position: relative;
+  width: 200px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  margin: 20px 0px;
+  transition: 0.3s;
+  overflow: hidden;
+  text-decoration: none;
+  margin-right: 15px;
+  color: #fff;
+  cursor: pointer;
+}
+.tag:hover {
+  /* background: rgba(255, 34, 187,1); */
+  background: rgba(19, 173, 199, 1);
+  text-decoration: none;
+  box-shadow: 0 0 10px rgba(19, 173, 199, 0.5), 0 0 30px rgba(19, 173, 199, 0.5),
+    0 0 60px rgba(19, 173, 199, 0.5), 0 0 100px rgba(19, 173, 199, 0.5);
+}
+.tag::before {
+  content: "";
+  position: absolute;
+  width: 40px;
+  height: 500%;
+  background: rgba(19, 173, 199, 1);
+  transition: 1s;
+  animation: animate 3s linear infinite;
+  animation-delay: calc(0.33s * 1);
+}
+.tag:hover::before {
+  width: 100%;
+}
+.tag::after {
+  content: "";
+  position: absolute;
+  background: rgba(0, 0, 0, 1);
+  inset: 2px;
+  transition: 0.4s;
+}
+.tag:hover::after {
+  background: rgba(19, 173, 199, 1);
+}
+.tag span {
+    position: relative;
+  z-index: 1;
+  font-size: 15px;
+}
+
+.active:hover  {
+  background: rgba(255, 34, 187,1) !important;
+  /* background: rgba(19, 173, 199, 1); */
+  text-decoration: none;
+  box-shadow: 0 0 10px rgba(255, 34, 187, 0.5), 0 0 30px rgba(255, 34, 187, 0.5),
+    0 0 60px rgba(255, 34, 187, 0.5), 0 0 100px rgba(255, 34, 187, 0.5);
+}
+.active::before {
+  content: "";
+  position: absolute;
+  width: 40px;
+  height: 500%;
+  background: rgba(255, 34, 187, 1);
+  transition: 1s;
+  animation: animate 3s linear infinite;
+  animation-delay: calc(0.33s * 1);
+}
+.active:hover::before {
+  width: 100%;
+}
+.tag::after {
+  content: "";
+  position: absolute;
+  background: rgba(0, 0, 0, 1);
+  inset: 2px;
+  transition: 0.4s;
+}
+.active:hover::after {
+  background: rgba(255, 34, 187, 1);
+}
