@@ -117,3 +117,37 @@ margin-top: 20px;
 .about_location_foto {
     overflow: hidden;
 }
+
+@media screen and (max-width: 991px) {
+    .wrap_skill_card {
+    flex-direction: column;
+    align-items: center;
+}
+.skill_card_descr h3 , .skill_card_descr p {
+   text-align: center;
+}
+.skill_card_descr h3 {
+    margin-top: 10px;
+}
+.skill_card_descr {
+    margin-left: 0px;
+}
+}
+@media screen and (max-width: 768px) {
+.about_description{
+    margin-top: 20px;
+}
+}
+@media screen and (max-width: 430px) {
+   .wrap_skill_card {
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 420px) {
+    .wrap_skill_card {
+        display: flex;
+        align-items: center;
+        padding: 15px 8px;
+    }
+}

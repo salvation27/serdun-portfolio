@@ -6,12 +6,13 @@ import  './About.css'
 import aboutSkills from "../../data/aboutSkill.json";
 import AboutSkill from './AboutSkill'
 import myPhoto from "../../myphoto.jpg";
+import Footer from '../Home/Footer';
 
 const About = () => {
     return (
       <section className="about" id="about">
         <Wrapper>
-          <div className="col-lg-3">
+          <div className="col-lg-3 col-md-4">
             <div className="about_location bloc_mod">
               <div className="about_location_foto">
                 <img src={myPhoto} alt="" />
@@ -45,7 +46,7 @@ const About = () => {
               <div className="about_location_sendmail"></div>
             </div>
           </div>
-          <div className="col-lg-9">
+          <div className="col-lg-9 col-md-8">
             <div className="about_description bloc_mod">
               <div className="about_desc_title">
                 <h3>About</h3>

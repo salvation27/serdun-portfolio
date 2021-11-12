@@ -6,6 +6,7 @@ import Home from './components/Home/Home'
 import Portfolio from './components/Portfolio/Portfolio'
 import About from "./components/About/About";
 import Header from './components/Header/Header'
+import Footer from './components/Home/Footer';
 
 
 function App() {
@@ -38,8 +39,8 @@ function App() {
         </a>
       </header> */}
     </div>
+    <Footer />
     </Router>
-    
   );
 }
 
