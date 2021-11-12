@@ -6,7 +6,6 @@ import  './About.css'
 import aboutSkills from "../../data/aboutSkill.json";
 import AboutSkill from './AboutSkill'
 import myPhoto from "../../myphoto.jpg";
-import Footer from '../Home/Footer';
 
 const About = () => {
     return (
