@@ -25,6 +25,13 @@ const Sosial = () => {
         >
           <i className="fab fa-telegram-plane"></i>
         </a>
+        <a
+          href="https://freelance.ru/newprovidence"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i class="fab fa-freebsd"></i>
+        </a>
       </div>
     );
 }
