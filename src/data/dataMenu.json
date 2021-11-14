@@ -1,5 +1,5 @@
 [
-  { "path": "/", "name": "Главная" },
+  { "path": "/", "name": "Main" },
   { "path": "/portfolio", "name": "Portfolio" },
   { "path": "/about", "name": "About" }
 ]

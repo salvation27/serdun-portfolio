@@ -48,3 +48,18 @@ a {
   display: flex;
   margin-top: 30px;
 }
+@media screen and (max-width: 768px) {
+.best_progects_wrap  h2 {
+    text-align: center;
+    display: block;
+}
+.best_progects_wrap h2:after {
+    left:50%;
+    margin-left: -32px;
+}
+}
+@media screen and (max-width: 567px) {
+.tag_button_wrap {
+    margin-top: 10px;
+}
+}

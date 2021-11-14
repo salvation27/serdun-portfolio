@@ -13,7 +13,7 @@ const menuItem = menu.map((item,index)=>{
 
 export default function Menu() {
     return (
-      <div className='col-5'>
+      <div className='col-md-5 col-sm-7 col-9'>
         <div className='menu'>
                     <ul className='flex'>
                       {

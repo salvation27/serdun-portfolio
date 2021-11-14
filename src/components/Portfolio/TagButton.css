@@ -80,3 +80,9 @@
 .active:hover::after {
   background: rgba(255, 34, 187, 1);
 }
+
+@media screen and (max-width: 425px) {
+.tag {
+    margin-right: 2px;
+}
+}

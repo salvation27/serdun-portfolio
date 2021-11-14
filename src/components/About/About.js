@@ -6,6 +6,7 @@ import  './About.css'
 import aboutSkills from "../../data/aboutSkill.json";
 import AboutSkill from './AboutSkill'
 import myPhoto from "../../myphoto.jpg";
+import Sosial from '../Home/Social'
 
 const About = () => {
     return (
@@ -28,6 +29,10 @@ const About = () => {
               >
                 Download Resume
               </a>
+              <div className="about_social">
+                <Sosial />
+              </div>
+
               {/* <Link to="/files/resume.docx" download>
                 Download
               </Link> */}
@@ -50,19 +55,43 @@ const About = () => {
               <div className="about_desc_title">
                 <h3>About</h3>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Similique, ipsa aut sint accusamus dolores provident expedita
-                  asperiores veniam corrupti eveniet ex molestiae blanditiis
-                  molestias. Quaerat libero est, temporibus neque quidem
-                  eligendi, quam eveniet illo, hic quos impedit soluta. Quae,
-                  expedita recusandae est quas quibusdam minus autem! Qui
-                  distinctio officia quidem optio iure voluptas doloremque,
-                  numquam sunt fuga quod, culpa cum temporibus dolores. Labore
-                  nostrum tempore sunt, esse corporis vero repellendus
-                  perspiciatis porro corrupti mollitia. Ut error, est delectus
-                  odit quos alias, inventore quidem sapiente quod nulla
-                  voluptatum molestias minus voluptas neque laborum perspiciatis
-                  beatae! Itaque aliquid vero quos? Illo, perferendis!
+                  In 2017, I decided to try to make my own website, watched
+                  training videos and became interested in one blogger, Andrey
+                  Gavrilov. He had great lessons. Then I found out that he has
+                  his own online school{" "}
+                  <a
+                    href="https://wayup.in/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    WayUp
+                  </a>
+                  I signed up for a layout course and passed it successfully! At
+                  the end training already sent applications for freelance
+                  exchange{" "}
+                  <a
+                    href="https://freelance.ru"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Freelance.ru
+                  </a>{" "}
+                  and upon completion course earned his first money - it was the
+                  first money, received via the "Internet". I continued on this{" "}
+                  <a
+                    href="https://freelance.ru/newprovidence"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    freelance exchange
+                  </a>{" "}
+                  their work , having completed a total of 40+ projects on
+                  layout and integration on CMS. Then there were fewer on the
+                  stock exchange orders and had to go to another job. But I
+                  realized that I want further develop in this area and began to
+                  study Javascript and React.js. Although the training is slow
+                  (not enough time after work main), but I like Frontend with
+                  Backend
                 </p>
               </div>
               <div className="about_desc_skill">

@@ -1,53 +1,102 @@
 .offer_wrapper h1 {
-    width: 600px;
+  width: 600px;
 }
 .offer_wrapper p {
-   color: rgba(255,255,255,0.75);
+  color: rgba(255, 255, 255, 0.75);
 }
 .offer_button {
-    background: #fff;
-    width: 200px;
-    height: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    font-size: 23px;
-    font-family: 'Space Grotesk', sans-serif;
+  background: #fff;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 23px;
+  font-family: "Space Grotesk", sans-serif;
 }
 .offer_wrapper svg {
-    width: 500px;
+  width: 500px;
 }
 .offer_wrapper {
-    position: relative;
+  position: relative;
 }
 .fig {
-    position: absolute;
-    top: 0px;
-    left: 100%;
-    margin-left: -500px;
+  position: absolute;
+  top: 0px;
+  left: 100%;
+  margin-left: -500px;
 }
 .offer_wrapper {
-    padding-top: 60px;
+  padding-top: 60px;
 }
 section {
-    padding-top: 60px;
-    padding-bottom: 60px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
-.skills_wrapper p  {
-    width: 600px;
-    margin-top: 40px;
-    margin-bottom: 0px;
+.skills_wrapper p {
+  width: 600px;
+  margin-top: 40px;
+  margin-bottom: 0px;
 }
 .offer_wrapper p {
-    width: 600px;
-    padding-top: 20px;
-    padding-bottom: 30px;
+  width: 600px;
+  padding-top: 20px;
+  padding-bottom: 30px;
 }
 .projects_wrap {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 .projects_wrap {
-    flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+
+@media screen and (max-width: 768px) {
+ .offer_wrapper h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 34px;
+    line-height: 40px;
+}
+.offer_wrapper p {
+    width: 100%;
+    font-size: 17px;
+    text-align: center;
+}
+section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.offer_wrapper {
+    padding-top: 10px;
+}
+.skills_wrapper p {
+    width: 100%;
+    margin-top: 20px;
+    font-size: 17px;
+    text-align: center;
+}
+.skills_wrapper h2 {
+    text-align: center;
+    display: block;
+}
+.skills_wrapper h2:after {
+    left:50%;
+    margin-left: -32px;
+}
+}
+
+
+@media screen and (max-width: 567px) {
+  section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+}
+@media screen and (max-width: 440px) {
+  .projects_wrap {
+    justify-content: center;
+  }
 }

@@ -89,3 +89,9 @@ background: rgba(243, 163, 71,1);
 .btn_potfolio:hover::after{
 background: rgba(243, 163, 71,1);
 }
+
+@media screen and (max-width: 768px) {
+.btn_potfolio {
+margin: 0 auto;
+}
+}
