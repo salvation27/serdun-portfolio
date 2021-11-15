@@ -65,7 +65,7 @@ const About = () => {
                     rel="noopener noreferrer"
                   >
                     WayUp
-                  </a>
+                  </a>{" "}
                   I signed up for a layout course and passed it successfully! At
                   the end training already sent applications for freelance
                   exchange{" "}
