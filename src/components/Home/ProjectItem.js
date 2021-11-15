@@ -14,9 +14,8 @@ export default function ProjectItem({ item }) {
           <p>{item.text}</p>
 
           <a href={item.link_site} target="_blank" rel="noreferrer">
-            Посмотреть
+            View
           </a>
-
 
           {/* <Link target={"_blank"} to={item.link_site}>
             Your Link

@@ -51,7 +51,7 @@
     "Progects": [
       {
         "title": "DenAuto",
-        "text": "Сервис услуг с последующей интеграцией на WP",
+        "text": "Service of services with subsequent integration on WP",
         "background": "./img/denauto.jpg",
         "link_site": "https://denauto-sochi.ru/",
         "best": true,
@@ -59,7 +59,7 @@
       },
       {
         "title": "Лаборатория света",
-        "text": "Лендинг с последующей интеграцией на WP",
+        "text": "Landing page with subsequent integration on WP",
         "background": "./img/lab-sveta.jpg",
         "link_site": "https://salvation27.github.io/verstka-labSveta/",
         "best": false,
@@ -67,7 +67,7 @@
       },
       {
         "title": "Efycc",
-        "text": "Сделана верстка 30+ страниц, а также интеграция с Wordpress и Woocommerce",
+        "text": "Made up of 30+ pages, as well as integration with Wordpress and Woocommerce",
         "background": "./img/efycc.jpg",
         "link_site": "https://efycc.ru/",
         "best": true,
@@ -75,7 +75,7 @@
       },
       {
         "title": "Lili Fashion",
-        "text": "Подготовка верстки 4+ страниц к интеграция с Wordpress и Woocommerce",
+        "text": "Preparation of layout of 4+ pages for integration with Wordpress and Woocommerce",
         "background": "./img/lili-fashion.jpg",
         "link_site": "https://salvation27.github.io/verstka-LiliFashion/",
         "best": true,
@@ -83,7 +83,7 @@
       },
       {
         "title": "KVart+",
-        "text": "Подготовка верстки 4+ страниц к интеграция с Wordpress и Woocommerce",
+        "text": "Preparation of layout of 4+ pages for integration with WP and WC",
         "background": "./img/KVart+.jpg",
         "link_site": "https://salvation27.github.io/verstka-arendaKvartir/",
         "best": true,
@@ -91,7 +91,7 @@
       },
       {
         "title": "Link System",
-        "text": "Верстка адаптивная",
+        "text": "Adaptive layout",
         "background": "./img/link_system.jpg",
         "link_site": "https://salvation27.github.io/verstka-linkSystem/",
         "best": true,
@@ -99,7 +99,7 @@
       },
       {
         "title": "ГК Самолет",
-        "text": "Подготовка верстки 4+ страниц к интеграция с CMS",
+        "text": "Preparation of layout of 4+ pages for integration with CMS",
         "background": "./img/GL_Samolet.jpg",
         "link_site": "https://salvation27.github.io/verstka-linkSystem/",
         "best": true,
@@ -107,7 +107,7 @@
       },
       {
         "title": "KOLOSS electric",
-        "text": "Подготовка верстки 4+ страниц к интеграция с Wordpress и Woocommerce",
+        "text": "Preparation of layout of 4+ pages for integration with WP and WC",
         "background": "./img/koloss-electric.jpg",
         "link_site": "https://salvation27.github.io/verstka-KolossElectrik/",
         "best": true,
@@ -115,7 +115,7 @@
       },
       {
         "title": "SILKWAY",
-        "text": "Верстка",
+        "text": "Layout",
         "background": "./img/silkway.jpg",
         "link_site": "https://salvation27.github.io/verstka-SILKWAY/",
         "best": false,
@@ -123,7 +123,7 @@
       },
       {
         "title": "Tele AKS",
-        "text": "Верстка адаптивная с анимацией",
+        "text": "Responsive layout with animation",
         "background": "./img/teleAKS.jpg",
         "link_site": "https://salvation27.github.io/verstka-teleAks/",
         "best": true,
@@ -131,7 +131,7 @@
       },
       {
         "title": "Quest",
-        "text": "Верстка заказа с фриланса",
+        "text": "Layout of an order from freelance",
         "background": "./img/quest.jpg",
         "link_site": "https://salvation27.github.io/zon-quest/",
         "best": false,
@@ -139,7 +139,7 @@
       },
       {
         "title": "Zamki-City",
-        "text": "Верстка",
+        "text": "Layout",
         "background": "./img/zamki-city.jpg",
         "link_site": "https://salvation27.github.io/zamki-city/",
         "best": false,
@@ -147,7 +147,7 @@
       },
       {
         "title": "WONLEXRUS",
-        "text": "Верстка адаптивная,первая работа за деньги",
+        "text": "Responsive layout, first job for money",
         "background": "./img/smart-watch.jpg",
         "link_site": "https://salvation27.github.io/wonlex-smart-watch/",
         "best": false,
@@ -155,7 +155,7 @@
       },
       {
         "title": "ThaiLine",
-        "text": "Верстка лендинга",
+        "text": "Layout of the landing page",
         "background": "./img/thaiLine.jpg",
         "link_site": "https://salvation27.github.io/thaiLine/",
         "best": false,
@@ -163,7 +163,7 @@
       },
       {
         "title": "WayUP",
-        "text": "Первая учебная верстка",
+        "text": "First tutorial layout",
         "background": "./img/wayUP.jpg",
         "link_site": "https://salvation27.github.io/wayUP/",
         "best": false,
@@ -171,7 +171,7 @@
       },
       {
         "title": "Shato",
-        "text": "Верстка лендинга с переключением на два языка",
+        "text": "Layout of the landing page with switching to two languages",
         "background": "./img/shato.jpg",
         "link_site": "https://salvation27.github.io/shato/",
         "best": true,
@@ -179,7 +179,7 @@
       },
       {
         "title": "РТ Логистик",
-        "text": "Подготовка верстки 4+ страниц к интеграция с CMS",
+        "text": "Preparation of layout of 4+ pages for integration with CMS",
         "background": "./img/pt-logistik.jpg",
         "link_site": "https://salvation27.github.io/PT-logistik/",
         "best": true,
@@ -187,7 +187,7 @@
       },
       {
         "title": "Park",
-        "text": "Верстка лендинга",
+        "text": "Layout of the landing page",
         "background": "./img/park.jpg",
         "link_site": "https://salvation27.github.io/park/",
         "best": false,
@@ -195,7 +195,7 @@
       },
       {
         "title": "Скупка Радиодеталей",
-        "text": "Верстка с интеграцией на WP и установкой плагина для обновления курса цвет. мет. онлайн",
+        "text": "Layout with integration on WP and installation of a plugin to update the course color. met. online",
         "background": "./img/skypka-radiodetaley.jpg",
         "link_site": "https://xn----7sbbatahwdlau9ahsk3ag.xn--p1ai/",
         "best": false,
@@ -203,7 +203,7 @@
       },
       {
         "title": "Ivan Romanowkov",
-        "text": "Верстка лендинга",
+        "text": "Layout of the landing page",
         "background": "./img/ivan-romanov.jpg",
         "link_site": "https://salvation27.github.io/ivan-romanovsky/",
         "best": false,
@@ -211,7 +211,7 @@
       },
       {
         "title": "МОСАБ",
-        "text": "Верстка с интеграцией на WP.Скорость сайта по гугл Спид была оптимизирована до 90",
+        "text": "Layout with WP integration. Site speed by Google Speed ​​has been optimized to 90",
         "background": "./img/mosab.jpg",
         "link_site": "https://salvation27.github.io/mosab/",
         "best": false,
@@ -219,7 +219,7 @@
       },
       {
         "title": "LUXUR",
-        "text": "Верстка лендинга",
+        "text": "Layout of the landing page",
         "background": "./img/luxur.jpg",
         "link_site": "https://salvation27.github.io/luxur/",
         "best": false,
