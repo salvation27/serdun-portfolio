@@ -50,6 +50,14 @@
     "title": "Projects",
     "Progects": [
       {
+        "title": "Weather App",
+        "text": "Test assignment from Codica",
+        "background": "./img/weather.jpg",
+        "link_site": "https://weathe-app.vercel.app/",
+        "best": true,
+        "tag_filter": "spa"
+      },
+      {
         "title": "DenAuto",
         "text": "Service of services with subsequent integration on WP",
         "background": "./img/denauto.jpg",

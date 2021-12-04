@@ -46,6 +46,11 @@ export default function Portfolio() {
               handleSetTag={setTeg}
               tagActive={tag === "catalog" ? true : false}
             />
+            <TagButton
+              name="spa"
+              handleSetTag={setTeg}
+              tagActive={tag === "spa" ? true : false}
+            />
           </div>
           <div className={portfolioStyle.count}>
             <strong>projects on the page:</strong>
