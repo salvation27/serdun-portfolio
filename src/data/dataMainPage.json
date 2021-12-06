@@ -50,6 +50,14 @@
     "title": "Projects",
     "Progects": [
       {
+        "title": "Code Editor",
+        "text": "Lesson Youtube",
+        "background": "./img/codEditor.jpg",
+        "link_site": "https://code-editor-vebcam.vercel.app/",
+        "best": false,
+        "tag_filter": "spa"
+      },
+      {
         "title": "Weather App",
         "text": "Test assignment from Codica",
         "background": "./img/weather.jpg",
@@ -134,7 +142,7 @@
         "text": "Responsive layout with animation",
         "background": "./img/teleAKS.jpg",
         "link_site": "https://salvation27.github.io/verstka-teleAks/",
-        "best": true,
+        "best": false,
         "tag_filter": "lending"
       },
       {
