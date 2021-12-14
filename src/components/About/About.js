@@ -23,7 +23,7 @@ const About = () => {
               <div className="about_location_prof">Web Developer</div>
               {/* <DownloadLink label="Download Resume" filename="resume.docx" /> */}
               <a
-                href="/files/resume.docx"
+                href="/files/resume 1.0.pdf"
                 download
                 className="about_location_prof about_location_prof_resume"
               >
